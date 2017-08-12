@@ -18,8 +18,8 @@ A small demo that can set a birthday and will receive a local notification at th
 * Terminal command:
 
 		1. git clone git@github.com:theteam247/Birthday.git
-		2. cd birthday
-		3. Pod install
+		2. cd Birthday
+		3. pod install
 	
 * open "RainbowList.xcworkspace" in Finder.
 * build and run.
