@@ -1,0 +1,15 @@
+PODS:
+  - SnapKit (3.2.0)
+  - Toast-Swift (2.0.0)
+
+DEPENDENCIES:
+  - SnapKit
+  - Toast-Swift
+
+SPEC CHECKSUMS:
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+
+PODFILE CHECKSUM: 52d6055f8d754ff2e08be9fd479204cfc0056818
+
+COCOAPODS: 1.2.0
